@@ -1,0 +1,14 @@
+{
+  "name": "004_fylo-landing-page-with-two-column-layout-master",
+  "version": "1.0.0",
+  "description": "![Design preview for the Fylo landing page with two column layout challenge](./design/desktop-preview.jpg)",
+  "main": "index.js",
+  "scripts": {
+    "watch:scss": "node-sass -w scss/main.scss css/style.css"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "node-sass": "^9.0.0"
+  }
+}
